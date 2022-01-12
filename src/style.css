@@ -2,3 +2,8 @@ main
 {
 	margin-top: 10px;
 }
+.add-news
+{
+	display: none;
+	margin-bottom: 10px;
+}
