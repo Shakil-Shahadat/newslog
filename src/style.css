@@ -7,3 +7,9 @@ main
 	display: none;
 	margin-bottom: 10px;
 }
+.show-btn
+{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
