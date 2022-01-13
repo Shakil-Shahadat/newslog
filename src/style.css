@@ -2,6 +2,10 @@ main
 {
 	margin-top: 20px;
 }
+a
+{
+	font-size: 19px;
+}
 .add-news
 {
 	display: none;
