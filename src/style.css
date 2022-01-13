@@ -6,6 +6,10 @@ a
 {
 	font-size: 19px;
 }
+li
+{
+	padding-bottom: 20px;
+}
 .add-news
 {
 	display: none;
